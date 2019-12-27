@@ -12,8 +12,8 @@ namespace SuperMap.Desktop.LayerControl
 {
     class _CtrlActionLayerControl:CtrlAction 
     {  
-        public _CtrlActionLayerControl(IBaseItem caller,IForm formclass)
-            :base (caller,formclass)
+        public _CtrlActionLayerControl(IBaseItem caller)
+            :base (caller)
         {
         
         }
